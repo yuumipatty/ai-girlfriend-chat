@@ -1,4 +1,4 @@
-# AI Girlfriend Chat Simulator
+# AI Girlfriend Chat Simulator ---
 
 Welcome to the **AI Girlfriend Chat Simulator**! 🌸✨ This delightful web application lets you experience a virtual conversation with your very own AI girlfriend, who’s always eager to chat and share sweet, loving messages tailored just for you. 
 
